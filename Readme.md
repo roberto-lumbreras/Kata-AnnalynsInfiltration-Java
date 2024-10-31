@@ -1,3 +1,5 @@
+EXERCISE IMPLEMENTED & TESTS PASSED
+
 # Annalyn's Infiltration
 
 ## Description
